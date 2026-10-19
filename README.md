@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DaniB1990)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DaniB1990&langs_count=4&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=DaniB1990&langs_count=4&theme=great-gatsby)
