@@ -50,7 +50,7 @@ Here are some areas I'm working on:
 
 ## 📊 GitHub Statistics
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DaniB1990&langs_count=4&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=DaniB1990&langs_count=4&theme=great-gatsby)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DaniB1990&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=DaniB1990&langs_count=4&theme=ambient_gradient)
 
 ## 🔬 Currently Exploring
 
