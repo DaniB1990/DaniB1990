@@ -1,10 +1,16 @@
 # Hey, I'm Daniel 👋
 
-**Digital Forensics · Software Development · Embedded Systems**
+My journey into software development took a few unexpected detours. It all started back in 2010 with a Bachelor's degree in Engineering, which somehow landed me in the railway industry. Along the way, I kept running into code — starting with humble VBA macros and a bit of C. Apparently, that wasn't enough of a warning. 
 
-I'm a developer and technology enthusiast with a passion for understanding how systems work — from low-level hardware and wireless communication to digital forensics and modern software development.
+Between 2015 and 2018, I pursued a Master's in Systems Engineering, where VHDL and embedded programming introduced me to the joy of debugging things that don't even have a screen.
 
-I love building practical tools, experimenting with new technologies, and exploring open-source projects.
+Then came another Bachelor's degree (because apparently I collect those), this time in Political Science and Computer Science (2021–2024). That's when programming went from something I occasionally did to something I genuinely couldn't stop thinking about.
+
+A four-month AI research exchange in Zacatecas, Mexico, in 2024 added another twist to the story. And somehow, after trains, microcontrollers, politics, and artificial intelligence, I ended up in **digital forensics**.
+
+These days, I spend my time figuring out what computers have been up to, building tools that make life easier, and occasionally breaking things just to understand how they work.
+
+**Not exactly a straight career path — but at least the debugging skills are transferable.**
 
 ## 🚀 Start Here
 
@@ -29,8 +35,6 @@ Here are some areas I'm working on:
 
 ### Frameworks & Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -50,9 +54,9 @@ Here are some areas I'm working on:
 
 ## 🔬 Currently Exploring
 
-- 📱 Mobile and network forensics
+- 📱 Network forensics
 - 📡 Wireless protocol research (BLE, Wi-Fi, LoRa)
-- 🦀 Learning Rust and systems programming
+- 🦀 Learning Rust, Go and systems programming
 - 🤖 Local AI, LLMs, and automation
 - 🖥️ Self-hosted infrastructure and open-source software
 
